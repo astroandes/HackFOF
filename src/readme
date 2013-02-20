@@ -14,15 +14,10 @@ Changes from v1.0:
 Included are:
 	README
 	Makefile
-	cat1/fof.1
 	kd.c
 	kd.h
 	main.c
-	man1/fof.1
 	tipsydefs.h
-
-For detailed information read the man page (either cat1/fof.1 or
-man1/fof.1).
 
 To build:
 
@@ -32,3 +27,6 @@ To get further information contact:
 
 	hpccsoft@astro.washington.edu
 
+History:
+
+This software has been modified to read particle data in ascii format (February 2013)
